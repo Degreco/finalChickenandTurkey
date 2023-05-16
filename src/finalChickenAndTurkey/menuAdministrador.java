@@ -21,7 +21,7 @@ public class menuAdministrador {
 				menuUsuariosAdministrador();
 				break;
 			case 2:
-				menuVehiculosADministrador();
+				menuVehiculosAdministrador();
 				break;
 			case 3:
 				informes();
